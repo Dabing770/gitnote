@@ -21,3 +21,13 @@ desktop.ini
 *.swo
 *~
 ~$*
+
+# Next.js / Node.js
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+
+# Automatically generated from content images by predev/prebuild
+public/_content/

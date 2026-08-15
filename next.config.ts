@@ -1,0 +1,21 @@
+import type { NextConfig } from "next";
+
+const repositoryName = process.env.GITHUB_REPOSITORY?.split("/")[1];
+const inferredBasePath =
+  process.env.GITHUB_ACTIONS === "true" && repositoryName && !repositoryName.endsWith(".github.io")
+    ? `/${repositoryName}`
+    : "";
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? inferredBasePath;
+
+const nextConfig: NextConfig = {
+  reactStrictMode: true,
+  output: "export",
+  trailingSlash: true,
+  basePath,
+  assetPrefix: basePath || undefined,
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath,
+  },
+};
+
+export default nextConfig;
