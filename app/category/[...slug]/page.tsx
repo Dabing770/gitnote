@@ -25,7 +25,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
 
   return (
     <div className="category-page page-container narrow-page">
-      <Breadcrumb segments={[...category.slug, "__category__"]} currentTitle={title} />
+      <Breadcrumb segments={category.slug} currentTitle={title} />
       <header className="category-header">
         <span className="eyebrow">Category</span>
         <h1>{title}</h1>
