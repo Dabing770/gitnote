@@ -11,3 +11,5 @@
 - Ilmassa oleva hiilidioksidi voi liueta mereen hiilihappona.
 - Maaperässä on fossiliset polttoaineet esim. kivihiili, maaöljy ja maakaasu. Ihmisen vaikutuksesta nämä hiiliyhdisteet vapauttuvat ilmakehään hiilidioksideina
 - Tulivuorenpurkaus vapauttaa myös maaperässä oleva hiilidioksidi ilmaan
+
+## Happamoituminen

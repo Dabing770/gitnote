@@ -11,5 +11,5 @@
 ## Kemosynteesi:
 
 - Tapahtuu paikoissa, jossa fotosynteesi ei ole mahdollista
-- Rikkoo epäorgaaninen yhdiste ja 
+- Rikkoo epäorgaaninen yhdiste ja saa siitä energia itselleen
 #BI4
