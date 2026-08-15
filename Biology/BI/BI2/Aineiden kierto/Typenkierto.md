@@ -1,6 +1,6 @@
 ## Typensidonta
 - Typpi kiertää ilmakehä, maaperä ja eliön välillä
-- Ilmakehässä on paljon N2 mutta eliö ei voi käyttää myödyksi.
+- Ilmakehässä on paljon N2, jossa useammat eliö ei voi käyttää hyödyksi.
 - Typpensitojabakteerit muuttaa N2 ammoniumioneiksi
 
 ## Nitrifikaatio

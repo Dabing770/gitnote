@@ -1,0 +1,205 @@
+{
+   "checksum": "35ddd1c3d551adf5d78caadbfe7b517b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13401400972127657",
+            "date_last_used": "13426714918063759",
+            "guid": "a74cd4f8-5531-454d-b5bb-b771c26ee442",
+            "id": "12",
+            "name": "Google 文档",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/u/0/",
+            "visit_count": 32
+         }, {
+            "date_added": "13401409460798178",
+            "date_last_used": "13431106678885365",
+            "guid": "1f014e3b-820f-439f-9ef9-ec8449e8eada",
+            "id": "13",
+            "name": "Oma etusivu - Wilma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://novida.inschool.fi/",
+            "visit_count": 127
+         }, {
+            "date_added": "13401741240854675",
+            "date_last_used": "13415980761868174",
+            "guid": "b0acef1e-48d2-4f4b-aa72-8b29be954453",
+            "id": "14",
+            "name": "C++",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.w3schools.com/cpp/default.asp",
+            "visit_count": 13
+         }, {
+            "date_added": "13402155942598165",
+            "date_last_used": "13430951738692671",
+            "guid": "bef76ebb-73f1-423c-9772-fa5d991dc83d",
+            "id": "15",
+            "name": "Etusivu | Nova",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nova.otava.fi/dashboard",
+            "visit_count": 145
+         }, {
+            "date_added": "13402827654002890",
+            "date_last_used": "13431252503293756",
+            "guid": "181abefc-3155-4e9b-b144-0178bb7b88df",
+            "id": "16",
+            "name": "Anioneja | MAOL-digitaulukot (uudistettu 2020)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maol.otava.fi/maol/#/artikkeli/4vipq7di4/",
+            "visit_count": 42
+         }, {
+            "date_added": "13413397599911297",
+            "date_last_used": "13431273046368750",
+            "guid": "cf037e34-9e7d-4e0b-a0c8-ebd3906804ae",
+            "id": "17",
+            "name": "Oma sivuni",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://kampus.sanomapro.fi/",
+            "visit_count": 116
+         }, {
+            "date_added": "13416179970200034",
+            "date_last_used": "13431257711315487",
+            "guid": "d03d522a-ecd5-4aee-a766-7738c1aae5cf",
+            "id": "18",
+            "name": "Mafynetti",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.mafynetti.fi/own-courses/high-school",
+            "visit_count": 38
+         }, {
+            "date_added": "13417547404227311",
+            "date_last_used": "13431115537734993",
+            "guid": "a141ceeb-6525-406a-b5e3-db1937eede1a",
+            "id": "19",
+            "name": "Abicus",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://digabi.github.io/abicus/",
+            "visit_count": 51
+         }, {
+            "date_added": "13418079216274668",
+            "date_last_used": "13431202124382698",
+            "guid": "9d848827-bcc2-4212-a718-7151d5444b50",
+            "id": "20",
+            "name": "Tietoa kurssista - Ohjelmoinnin perusteet ja jatkokurssi 2026",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ohjelmointi-26.mooc.fi/",
+            "visit_count": 9
+         }, {
+            "date_added": "13418243892714885",
+            "date_last_used": "13430346187949699",
+            "guid": "8ef62033-3242-41fb-b495-309e41eac923",
+            "id": "21",
+            "name": "GeoGebra Classic",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geogebra.org/classic",
+            "visit_count": 18
+         }, {
+            "date_added": "13424282881020854",
+            "date_last_used": "13430601469557403",
+            "guid": "fb93051f-cc68-4295-9fed-cdc8cf5fa763",
+            "id": "22",
+            "name": "GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/",
+            "visit_count": 10
+         }, {
+            "date_added": "13431282785185241",
+            "date_last_used": "0",
+            "guid": "d5ee7155-c5c4-47b8-90d8-b44b13dc1e7c",
+            "id": "9",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13431282785185159",
+            "date_last_used": "0",
+            "guid": "b7711b9d-c583-4a1b-8156-c563b563ddff",
+            "id": "8",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13431282785184648",
+            "date_last_used": "0",
+            "guid": "4cbf199c-9330-4716-ac70-bacc910083a5",
+            "id": "7",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829",
+            "visit_count": 0
+         } ],
+         "date_added": "13431282785089136",
+         "date_last_used": "0",
+         "date_modified": "13431282785185241",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "收藏夹栏",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13431282785089136",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13431282785089136",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13431282785089136",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "工作区",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCGxtGQagAQAAEgAqGEdtOEl6RGRpcW16U0tEQUNUUG5Mc3c9PUgDoAYHEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGFjOTUxMWRjLWM2M2MtNWM3Mi1iYmI3LTk1OWFkZjkxMGI1ORgAIAAoADChx4iIkTM4sM2IiJEzQLDNiIiRM0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKuAQgWEqkBChwrTXVsSzk3Q0tFUDZxVU9DQnlTWFlMaW1aazA9EiRmYjkzMDUxZi1jYzY4LTQyOTUtOWZlZC1jZGM4Y2Y1ZmE3NjMYACAAKAAw2N+R7P0zOPjcmafmM0D43Jmn5jNKHFl3Vk1PSHdvTmpCaENRWXQ0U1B3VC9lTHdTWT1aICIe/+9hQXc5TjRqK21FN0dvQ3RNY0VOWGdWbE5CaDQ9ZYVn7Q/CPgJgBRKuAQgUEqkBChxzWTdSd1lETUxjeDIyd2s2SThqbmxDT0t3d0E9EiQ5ZDg0ODgyNy1iY2MyLTQyMTItYTcxOC03MTUxZDU0NDRiNTAYACAAKAAw3ejGioA0OIGEiJnPM0CBhIiZzzNKHHBxZmlXb3EvNWNaODRZZTBhTE1lSHBIN0dScz1aICIe/7wwTEZTWTQ1WjlESXA5dkl6NnY1SlBvdHlZZ2c9ZQAAAADCPgJgBRKuAQgVEqkBChxEcVJ3VmNaR3g1U0FPWDduRHlKNWRiTENCRUE9EiQ4ZWY2MjAzMy0zMjQyLTQxZmItYjQ5NS0zMDllNDFlYWM5MjMYACAAKAAw6Mm08vwzONiKy+fPM0DYisvnzzNKHDV1OWxqejBJWDJlcGpGSUc5ckluaDR4Zjk3Yz1aICIe/95hS1JFU2tJaGRQYlRiU3lMa3lpSVBMQmJRVWM9ZTCB81LCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRlYjNhZGNhZS0yN2NmLTU4NWUtOGM0NS1mNjc4OTM1OWViZjIYACAAKAAwmseIiJEzOO7LiIiRM0Duy4iIkTNKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrQEIExKoAQocYUxiMi9weDdXV0l4a2VVY0crbk8wYkRWNlBVPRIkYTE0MWNlZWItNjUyNS00MDZhLWI1ZTMtZGIxOTM3ZWVkZTFhGAAgACgAMO78oeH/Mzivgr2bzTNAr4K9m80zShxuSjZiQmZQdUd1R2RucklERUtPY2tjRGVIU3M9Wh8iHf94Y09aQjJRajJlVnZpSnNjNGNJQ3I2em4wSlU9ZWRB6FXCPgJgBRKtAQgSEqgBChwveFVCMEQ1Tm9iMTNPeCtTRTZ3NGJkOENIems9EiRkMDNkNTIyYS1lY2Q1LTRhZWUtYTc2Ni03NzM4YzFhYWU1Y2YYACAAKAAw6ceHpYA0OPCot4/IM0DwqLePyDNKHC8xNkhRdmdPZHUvWlRvN2VaVEwrMVpkcjlyST1aHyId/mxpd1gyRVhIUlVVVlpTQ0dhVEQ1QXprVnU5TT1lKc6uQcI+AmAFEq0BCBESqAEKHDBPY1ErajFXSlliKzJQRkw5bFBoQlBnZUdQUT0SJGNmMDM3ZTM0LTllN2QtNGUwYi1hMGM4LWViZDM5MDY4MDRhZRgAIAAoADC1zq+sgDQ42uzY4L0zQNrs2OC9M0ocdFZaa0RISkU0d1A4ekVIY1dxc20vRmxIeVFJPVofIh37M1lENXQ3MDR2Szh0c1VtTDFoS0x6YXYrRXZJPWX2Ey0Lwj4CYAUSrAEIDRKnAQocaTZvbXJJTWNzTnQxeDNEb2gxdndCRFhucVVJPRIkMWYwMTRlM2ItODIwZi00MzlmLTllZjktZWM4NDQ5ZThlYWRhGAAgACgAMPSghd3/MziFkqeMkTNAhZKnjJEzShx4Skd5Z2dRTkVKaENwQlRaM2hBSm9SLzdqNGM9Wh4iHGxnV0ZMU3I2djk5OWxyMjI5Ynp4SnUzZm03Yz1lhJUB88I+AmAFEq0BCA8SqAEKHG5WK3gySWhPei9zdy96aUVKNmZEVFlCWHU4QT0SJGJlZjc2ZWJiLTczZjEtNDIzYy05NzcyLWZhNWQ5OTFkYzgzZBgAIAAoADDJv5ST/zM4wc6g8JMzQMHOoPCTM0ocT2Z1QzdQVE9CZkhSZnR6YWJURVhkdTM4dFBZPVofIh3tbGR0UXpUaXgxQ0VvdmR2SmFWVTQ5WmdzeStJPWVqMUEawj4CYAUSrAEIDBKnAQocaldiTjhvK1paUFU2VjVaYUN6Q3VlVWdVRklrPRIkYTc0Y2Q0ZjgtNTUzMS00NTRkLWI1YmItYjc3MWMyNmVlNDQyGAAgACgAMM688a7vMzi/gKGIkTNAv4ChiJEzShxNa3FsRE1NbVI2dGJ4TmlsakJ3bFBhRDhUd289Wh4iHGI5amJwS3NEMEI2VGJYY3dvcG9yME80djFHOD1lXXgxV8I+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGE3NTM5YmM1LWI5NzYtNTI0NC1iMjM0LTAyYWE2MDFlZTBmNxgAIAAoADCbx4iIkTM4m8yIiJEzQJvMiIiRM0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKtAQgOEqgBChxNaFB2MnlUeTIwT2w5cmNvR2RJYnhBeGExM289EiRiMGFjZWYxZS00OGQyLTRmNGItYWE3Mi04YjI5YmU5NTQ0NTMYACAAKAAwsdOvjtkzOPWWwaqSM0D1lsGqkjNKHGtlam5uVitZSTd5bjhXM1kxS205bEdDR2FETT1aHyIdtmdESnJZMXY2SFE4Q3U1elk4c2VrV3JONFhlWT1lCvo/+MI+AmAFEq0BCBASqAEKHG5pNnFkaXFWRmJtemNwSHk3dkhDaitXOHlyRT0SJDE4MWFiZWZjLTMxNTUtNGU5Yi1iMTQ0LTAxNzhiYjdiODhkZhgAIAAoADCR2smigDQ46MjGsJYzQOjIxrCWM0ocUFRZU3AyRWNWVGUzandNYXY1VFQ3ZlNPV3NnPVofIh32ZjhOSVA0SzdaMENoTnhzaG9NYThpMEl3K3hrPWUxeFv5wj4CYAUSjgEIBRKJAQocd1JCclpMKzZQQTlhdktnak5QN0pYRExjZnZzPRIkZmNlZTRiNTktMzYyNC01NzUzLTg4ZDItOWYwMGQwMjA1ODYzGAAgACgAMKDHiIiRMzj3zIiIkTNA98yIiJEzShxubXg2NXNRRHZ4SThUZ0VlditBK250dG9TbjQ9WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}

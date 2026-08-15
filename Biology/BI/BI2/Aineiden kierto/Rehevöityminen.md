@@ -11,4 +11,9 @@ Rhevöityminen tarkoittaa: Vesistöön tulee liikaa ravinteita, erityisesti typp
 ## Kuormitus:
 = Mistä ravinne
 ### Pistekuormitus:
-Tietty
+- Tietty paikkasta ravinto lähde vesistöihin:
+	- Tehdas ja putket
+
+### Hajakuormitus:
+- Monta hajalla oleva ravinto lähde:
+	- Maatalous ja veden huuhtelu
