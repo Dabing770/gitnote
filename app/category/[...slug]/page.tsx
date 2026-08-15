@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Breadcrumb } from "@/components/breadcrumb";
 import { CategoryList } from "@/components/category-list";
-import { displayName } from "@/lib/slug";
 import { getAllCategorySlugs, getCategory } from "@/lib/notes";
 
 type CategoryPageProps = { params: Promise<{ slug: string[] }> };
@@ -22,11 +21,11 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   const { slug } = await params;
   const category = await getCategory(slug);
   if (!category) notFound();
-  const title = displayName(slug.at(-1) ?? "Notes");
+  const title = category.title;
 
   return (
     <div className="category-page page-container narrow-page">
-      <Breadcrumb segments={[...slug, "__category__"]} currentTitle={title} />
+      <Breadcrumb segments={[...category.slug, "__category__"]} currentTitle={title} />
       <header className="category-header">
         <span className="eyebrow">Category</span>
         <h1>{title}</h1>
