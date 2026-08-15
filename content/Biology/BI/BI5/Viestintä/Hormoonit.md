@@ -1,0 +1,2 @@
+
+Hormoonin vaikutus on hidasta

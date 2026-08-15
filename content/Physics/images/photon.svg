@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Photon illustration</title>
+  <desc id="desc">A wave moving from left to right with energy and momentum formulas.</desc>
+  <rect width="960" height="360" rx="24" fill="#18231f"/>
+  <path d="M80 182 C120 80 160 80 200 182 S280 284 320 182 S400 80 440 182 S520 284 560 182" fill="none" stroke="#7fc2aa" stroke-width="12" stroke-linecap="round"/>
+  <path d="M560 182 H700" stroke="#7fc2aa" stroke-width="8" stroke-linecap="round"/>
+  <path d="M680 158 L720 182 L680 206" fill="none" stroke="#7fc2aa" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="760" y="145" fill="#e9f3ef" font-family="Georgia, serif" font-size="38" text-anchor="middle">E = hf</text>
+  <text x="760" y="216" fill="#b7d9cd" font-family="Georgia, serif" font-size="32" text-anchor="middle">p = h/λ</text>
+  <text x="80" y="315" fill="#8ca69c" font-family="system-ui, sans-serif" font-size="20">photon • fotoni</text>
+</svg>

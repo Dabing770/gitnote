@@ -1,19 +1,33 @@
-# Obsidian workspace / local UI state
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+# Obsidian local settings, plugins, cache, and workspace state
+**/.obsidian/
 
-# Obsidian cache
-.obsidian/cache/
+# Obsidian trash
+**/.trash/
 
-# Trash
-.trash/
+# Local AI/editor tool state
+**/.agents/
 
-# OS files
+# Windows / macOS system files
 .DS_Store
 Thumbs.db
+ehthumbs.db
 desktop.ini
 
-# Temporary files
+# Editor temporary and backup files
 *.tmp
 *.temp
+*.bak
+*.swp
+*.swo
 *~
+~$*
+
+# Next.js / Node.js
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+
+# Automatically generated from content images by predev/prebuild
+public/_content/
