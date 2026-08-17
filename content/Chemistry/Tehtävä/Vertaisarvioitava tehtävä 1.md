@@ -18,7 +18,7 @@ $$
 c1 ja V1 ovat etiika hapon konsentraatio ja tilavuus
 
 Selvitetään etiikkahapon konsentraatio:
-Oletetaan, että kemian luokkassa on 25 **celsiusastetta** jolloin etiikkahapon tiheys on 1,04
+Oletetaan, että kemian luokkassa on 25 celsiusastetta jolloin etiikkahapon tiheys on 1,04
 
 $$
 m=\rho V={1,04\frac{g}{cm^{3}}}\cdot{2cm^{3}}=2,08g
