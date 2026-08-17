@@ -44,3 +44,5 @@ $$
 c_{2}=\frac{17.3183241191\cdot {0},002mol}{0,2l}=0,173183\dots\approx {0,17\frac{mol}{l}}
 $$
 
+
+Turvallisuudesta pitää muonioida suojatakki, suojalasi, suoja hanskat ja ilmastoinnit esim pidetää ikkunat auki.
