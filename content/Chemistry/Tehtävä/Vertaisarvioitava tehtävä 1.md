@@ -5,10 +5,9 @@ Kerro tarkasti, miten selvität konsentraation kemian luokasta löytyvälle liuo
 
 Jos sinä olisit valmistanut tämän laimennoksen, mitä työturvallisuusnäkökohtia sinun olisi pitänyt huomioida.
 
-![Etikkahapon laimentaminen](Pasted%20image%2020260817184404.png)
 
 
-Voidaan selvittää lasvennan kautta:
+Voidaan selvittää laskennan kautta:
 
 
 $$
