@@ -1,4 +1,12 @@
-![[Pasted image 20260817184404.png]]
+
+## Tehtävä
+
+Kerro tarkasti, miten selvität konsentraation kemian luokasta löytyvälle liuokselle, joka on valmistettu luokan varastossa olevasta väkevästä etikkahaposta. Tuntemattoman väkevyyistä liuosta on tasan **200 ml** ja siihen tiedetään siirretyn väkevää etikkahappoa **2 ml**.
+
+Jos sinä olisit valmistanut tämän laimennoksen, mitä työturvallisuusnäkökohtia sinun olisi pitänyt huomioida.
+
+![Etikkahapon laimentaminen](Pasted%20image%2020260817184404.png)
+
 
 Voidaan selvittää lasvennan kautta:
 
