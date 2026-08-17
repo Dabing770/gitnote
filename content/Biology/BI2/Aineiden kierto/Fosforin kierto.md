@@ -11,5 +11,5 @@
 - Fosfaatti siirtyy ravinnon mukaan eläimiin
 - Hajoittajat vapauttavat fosforia takaisin maaperään
 - Pohjalieteet fosfaatti
-- Fosforimineraaleista valmistetaan mineraaleja
+- Fosforimineraaleista valmistetaan lannoiteita
 - Lannoitteiden fosfori huuhtoutuminen vesistöihin

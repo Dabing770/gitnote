@@ -2,4 +2,4 @@
 
 建议下载笔记软件 Obsidian 使用Obsidian 打开Physics 文件夹
 
-也支持在线阅读
+也支持[在线阅读](https://dabing770.github.io/gitnote/)

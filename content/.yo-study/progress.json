@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated": "2026-08-16",
+  "items": [
+    {
+      "id": "kemia-ke2-ionisaatioenergia",
+      "subject": "kemia",
+      "module": "KE2",
+      "topic": "ionisaatioenergia",
+      "level": 0,
+      "correct": 0,
+      "wrong": 0,
+      "lastReview": null,
+      "nextReview": "2026-08-16"
+    }
+  ]
+}
