@@ -28,7 +28,7 @@ $$
 n=\frac{m}{M}=\frac{2,16g}{12,01\cdot 2+16\cdot{2}+1,008\cdot 4\left( \frac{g}{mol} \right)}=0.0346366482382\dots mol
 $$
 $$
-c=\frac{n}{V}=\frac{0.0346366482382}{0,002l}=17,9844135\frac{mol}{l}
+c=\frac{n}{V}=\frac{0.0346366482382}{0,002l}=17.3183241191\frac{mol}{l}
 $$
 
 Lasketaan V2
@@ -41,6 +41,6 @@ c_{2}=\frac{c_{1}V_{1}}{V_{2}}
 $$
 
 $$
-c_{2}=\frac{19,9844135\cdot {0},002mol}{0,2l}=0,179844\dots\approx {0,18\frac{mol}{l}}
+c_{2}=\frac{17.3183241191\cdot {0},002mol}{0,2l}=0,173183\dots\approx {0,17\frac{mol}{l}}
 $$
 
