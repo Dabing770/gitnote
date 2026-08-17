@@ -3,3 +3,36 @@
 Voidaan selvittää lasvennan kautta:
 
 
+$$
+c_{1}V_{1}=c_{2}V_{2}
+
+$$
+
+c1 ja V1 ovat etiika hapon konsentraatio ja tilavuus
+
+Selvitetään etiikkahapon konsentraatio:
+Oletetaan, että kemian luokkassa on 25 celsius astetta jolloin Etiikkahapon tiheys on 1,04
+
+$$
+m=\rho V={1,04\frac{g}{cm^{3}}}\cdot{2cm^{3}}=2,16g
+$$
+$$
+n=\frac{m}{M}=\frac{2,16g}{12,01\cdot 2+16\cdot{2}+1,008\cdot 4\left( \frac{g}{mol} \right)}=0,0359688\dots mol
+$$
+$$
+c=\frac{n}{V}=\frac{0,0359688mol}{0,002l}=17,9844135\frac{mol}{l}
+$$
+
+Lasketaan V2
+
+$$
+c_{1}V_{1}=c_{2}V_{2}
+$$
+$$
+c_{2}=\frac{c_{1}V_{1}}{V_{2}}
+$$
+
+$$
+c_{2}=\frac{19,9844135\cdot {0},002mol}{0,2l}=0,179844\dots\approx {0,18\frac{mol}{l}}
+$$
+
