@@ -25,7 +25,7 @@ $$
 m=\rho V={1,04\frac{g}{cm^{3}}}\cdot{2cm^{3}}=2,08g
 $$
 $$
-n=\frac{m}{M}=\frac{2,16g}{12,01\cdot 2+16\cdot{2}+1,008\cdot 4\left( \frac{g}{mol} \right)}=0.0346366482382\dots mol
+n=\frac{m}{M}=\frac{2,08g}{12,01\cdot 2+16\cdot{2}+1,008\cdot 4\left( \frac{g}{mol} \right)}=0.0346366482382\dots mol
 $$
 $$
 c=\frac{n}{V}=\frac{0.0346366482382}{0,002l}=17.3183241191\frac{mol}{l}
