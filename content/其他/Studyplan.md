@@ -1,0 +1,5 @@
+1. Automaatio ja robotiikka (Aalto)
+2. Kemian tekniikka (Aalto)
+3. Sähköenergiatekniikka (Aalto)
+4. Kemian kandiohjelma (Helsingin yliopisto)
+5. Matemaattisten tieteiden kandiohjelma (Helsingin yliopisto)
