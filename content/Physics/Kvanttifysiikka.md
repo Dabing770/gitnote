@@ -34,7 +34,7 @@ Inline-kaavana fotonin liikemäärä on $p = h/\lambda$.
 
 Alla oleva kuva sijaitsee Markdown-tiedoston lähellä olevassa `images`-kansiossa. Rakennus kopioi sen automaattisesti julkaistavaksi.
 
-![Fotonin energia ja liikemäärä](./images/photon.svg)
+![Fotonin energia ja liikemäärä|378](./images/photon.svg)
 
 ## Tehtävälista
 
