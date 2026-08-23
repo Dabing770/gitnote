@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-16",
+  "updated": "2026-08-23",
   "items": [
     {
       "id": "kemia-ke2-ionisaatioenergia",
@@ -12,6 +12,17 @@
       "wrong": 0,
       "lastReview": null,
       "nextReview": "2026-08-16"
+    },
+    {
+      "id": "biologia-bi6-dna-toistojaksot",
+      "subject": "biologia",
+      "module": "BI6",
+      "topic": "DNA:n toistojaksot",
+      "level": 0,
+      "correct": 0,
+      "wrong": 1,
+      "lastReview": "2026-08-23",
+      "nextReview": "2026-08-23"
     }
   ]
 }
