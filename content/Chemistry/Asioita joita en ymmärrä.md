@@ -1,1 +1,2 @@
 ionisaatioenergia
+Veteen liukenut ionit
