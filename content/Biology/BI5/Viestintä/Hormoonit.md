@@ -19,3 +19,11 @@ Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikutta vain ni
 	- Liberiinit: Lisäävät aivolisäkkeen hormooni eriytymistä
 	- Statiinit: Estää aivolisäkkeen hormooni eriytymistä
 - Valmistaa aivolisäkkeen takalohkosta vapautuvat hormoonit: ***Oksitosiini*** ja ***Antidiureettinen*** hormooni
+
+## Aivolisäke:
+- Kasvuhormooni
+- Prolaktiini
+- Kortikotropiini
+- Tyreotropiini
+- Follitropiini
+- L
