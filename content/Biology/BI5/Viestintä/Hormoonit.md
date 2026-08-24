@@ -26,8 +26,8 @@ Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikutta vain ni
 - Prolaktiini: Käynistää maidontuotanto ja ylläpitää sen
 - Kortikotropiini: Lisää kolesterolin eriytyminen
 - Tyreotropiini: Kilpirauhasen hormoonien synteesi ja eriytys
-- Follitropiini
-- Lutropiini
+- Follitropiini: Siitiöiden kehittyminen
+- Lutropiini: Testosteroinin eriytys
 
 ### Takalohko:
 - Antidiureettinen hormooni: Veden takaisinotto munuaisissa
