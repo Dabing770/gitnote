@@ -41,23 +41,26 @@ export function ThemeToggle() {
     applyTheme(nextTheme);
   }
 
-  const current = themes.find((item) => item.value === theme) ?? themes[2];
-  const Icon = current.icon;
-
   return (
-    <div className="theme-control" title={`Theme: ${current.label}`}>
-      <Icon aria-hidden="true" size={16} />
-      <select
-        aria-label="Color theme"
-        value={theme}
-        onChange={(event) => selectTheme(event.target.value as Theme)}
-      >
-        {themes.map((item) => (
-          <option key={item.value} value={item.value}>
-            {item.label}
-          </option>
-        ))}
-      </select>
+    <div className="theme-switch" data-active={theme} role="radiogroup" aria-label="Color theme">
+      <span className="theme-switch-thumb" aria-hidden="true" />
+      {themes.map((item) => {
+        const Icon = item.icon;
+        const checked = theme === item.value;
+        return (
+          <button
+            key={item.value}
+            type="button"
+            role="radio"
+            aria-checked={checked}
+            aria-label={`${item.label} theme`}
+            title={item.label}
+            onClick={() => selectTheme(item.value)}
+          >
+            <Icon aria-hidden="true" size={14} />
+          </button>
+        );
+      })}
     </div>
   );
 }

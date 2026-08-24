@@ -103,6 +103,16 @@ export function Search({ notes, onNavigate }: { notes: NoteSummary[]; onNavigate
                 ))
               )}
             </div>
+            <div className="search-footer">
+              <span>
+                <kbd>Esc</kbd> to close
+              </span>
+              <span>
+                {query.trim().length >= 2
+                  ? `${results.length} of ${notes.length} notes`
+                  : `${notes.length} notes indexed`}
+              </span>
+            </div>
           </section>
         </div>
       )}

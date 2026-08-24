@@ -31,4 +31,11 @@ out/
 
 # Automatically generated from content images by predev/prebuild
 public/_content/
-"content/??/pdfqa_hnzsb/profile/" 
+
+# Accidentally copied browser profile / cache directories
+**/edge-profile/
+**/chrome-profile/
+**/Edge Sidebar/
+**/EdgeLanguageDetectionModel/
+**/pdfqa_hnzsb/profile/
+
