@@ -22,13 +22,13 @@ Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikutta vain ni
 
 ## Aivolisäke:
 ### Etulohko
-- Kasvuhormooni
-- Prolaktiini
+- Kasvuhormooni: Kasvun säätely lapsuus ja nuoruusiässä
+- Prolaktiini: Käynistää
 - Kortikotropiini
 - Tyreotropiini
 - Follitropiini
 - Lutropiini
 
 ### Takalohko:
-- Antidiureettinen hormooni
-- Oksitosiini: Maidon 
+- Antidiureettinen hormooni: Veden takaisinotto munuaisissa
+- Oksitosiini: Maidon eriytys
