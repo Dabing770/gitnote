@@ -1,34 +1,34 @@
-Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikutta vain niihin soluihin, joissa on oikea reseptori.
+Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikuttaa vain niihin soluihin, joissa on oikea reseptori.
 
 ## Rasvaliukoinen hormoni
-- Kulkee verenkierrossa kuljettajaproteiini sitoutuneena
-- Läpäise solukalvon ja sitoutuu solulimassa tai tumassa reseptoriinsa muodostaen **hormoni-reseptorikompleksi**
-- Kompleksi kulkeutuu  tumaan ja vaikuttaa suoran DNA:n luentaan toimimalla säätelyproteiineina.
+- Kulkee verenkierrossa kuljettajaproteiiniin sitoutuneena
+- Läpäisee solukalvon ja sitoutuu solulimassa tai tumassa reseptoriinsa muodostaen **hormoni-reseptorikompleksin**
+- Kompleksi kulkeutuu tumaan ja vaikuttaa suoraan DNA:n luentaan toimimalla säätelyproteiinina.
 - Vaikutus on pitkäaikainen verrattuna vesiliukoisiin hormoneihin.
 
-## Vesiliukoinen hormooni
-- Kulkee verenkiertossa vapaasti
-- Sitoutuu kohde solun solukalvolla olevaan reseptoriin, mikä aktivoi solun sisäpuolisen toisiolähetin. 
+## Vesiliukoinen hormoni
+- Kulkee verenkierrossa vapaasti
+- Sitoutuu kohdesolun solukalvolla olevaan reseptoriin, mikä aktivoi solunsisäisen toisiolähetin.
 - Toisiolähetti:
-	- Aktivoi solun aineenvaihduntaa esim. kiihdyttämällä entsymien toiminta
-	- Voi käynistää transkription kulkeutumalla tumaan ja sitoutumalla geenin säätelyalueelle tai aktivoimalla säätelyproteiinin.
-	- Syntyminen vaatii ATP
+	- Aktivoi solun aineenvaihduntaa esim. kiihdyttämällä entsyymien toimintaa
+	- Voi käynnistää transkription aktivoimalla säätelyproteiinin, joka kulkeutuu tumaan ja sitoutuu geenin säätelyalueelle.
+	- Syntyminen vaatii ATP:tä
 
 ## Hypotalamus
-- Säätelee aivolisäkkeen hormoonin eriytymistä
-	- Liberiinit: Lisäävät aivolisäkkeen hormooni eriytymistä
-	- Statiinit: Estää aivolisäkkeen hormooni eriytymistä
-- Valmistaa aivolisäkkeen takalohkosta vapautuvat hormoonit: ***Oksitosiini*** ja ***Antidiureettinen*** hormooni
+- Säätelee aivolisäkkeen hormonien eritystä
+	- Liberiinit: Lisäävät aivolisäkkeen hormonien eritystä
+	- Statiinit: Estävät aivolisäkkeen hormonien eritystä
+- Valmistaa aivolisäkkeen takalohkosta vapautuvat hormonit: ***Oksitosiini*** ja ***antidiureettinen hormoni***
 
 ## Aivolisäke:
 ### Etulohko
-- Kasvuhormooni: Kasvun säätely lapsuus ja nuoruusiässä
-- Prolaktiini: Käynistää maidontuotanto ja ylläpitää sen
-- Kortikotropiini: Lisää kolesterolin eriytyminen
-- Tyreotropiini: Kilpirauhasen hormoonien synteesi ja eriytys
-- Follitropiini: Siitiöiden kehittyminen
-- Lutropiini: Testosteroinin eriytys
+- Kasvuhormoni: Kasvun säätely lapsuudessa ja nuoruusiässä
+- Prolaktiini: Käynnistää maidontuotannon ja ylläpitää sen
+- Kortikotropiini: Lisää lisämunuaiskuoren kortisolin eritystä
+- Tyreotropiini: Kilpirauhasen hormonien synteesi ja eritys
+- Follitropiini: Munasarjarakkuloiden kehittyminen (naisilla) ja siittiöiden tuotanto (miehillä)
+- Lutropiini: Testosteronin eritys (miehillä) ja ovulaation käynnistäminen (naisilla)
 
 ### Takalohko:
-- Antidiureettinen hormooni: Veden takaisinotto munuaisissa
-- Oksitosiini: Maidon eriytys
+- Antidiureettinen hormoni: Veden takaisinotto munuaisissa
+- Oksitosiini: Maidon herumisen käynnistäminen ja synnytyksen kohdun supistukset
