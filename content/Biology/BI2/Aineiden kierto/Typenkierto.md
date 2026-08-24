@@ -5,6 +5,7 @@
 
 ## Nitrifikaatio
 - Maaperän bakteerit muuttavat ammoniumin ensin nitriitiksi ja sitten nitraatiksi
+
 $$
 NH_4^+ \rightarrow NO_2^- \rightarrow NO_3^-
 
