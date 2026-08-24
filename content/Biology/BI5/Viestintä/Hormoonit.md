@@ -14,3 +14,8 @@ Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikutta vain ni
 	- Voi käynistää transkription kulkeutumalla tumaan ja sitoutumalla geenin säätelyalueelle tai aktivoimalla säätelyproteiinin.
 	- Syntyminen vaatii ATP
 
+## Hypotalamus
+- Säätelee aivolisäkkeen hormoonin eriytymistä
+	- Liberiinit: Lisäävät aivolisäkkeen hormooni eriytymistä
+	- Statiinit: Estää aivolisäkkeen hormooni eriytymistä
+- Valmistaa aivolisäkkeen takalohkosta vapautuvat hormoonit: ***Oksitosiini*** ja ***Antidiureettinen*** hormooni
