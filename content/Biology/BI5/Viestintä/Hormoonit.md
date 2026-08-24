@@ -23,9 +23,9 @@ Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikutta vain ni
 ## Aivolisäke:
 ### Etulohko
 - Kasvuhormooni: Kasvun säätely lapsuus ja nuoruusiässä
-- Prolaktiini: Käynistää
-- Kortikotropiini
-- Tyreotropiini
+- Prolaktiini: Käynistää maidontuotanto ja ylläpitää sen
+- Kortikotropiini: Lisää kolesterolin eriytyminen
+- Tyreotropiini: Kilpirauhasen hormoonien synteesi ja eriytys
 - Follitropiini
 - Lutropiini
 
