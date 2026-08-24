@@ -21,9 +21,14 @@ Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikutta vain ni
 - Valmistaa aivolisäkkeen takalohkosta vapautuvat hormoonit: ***Oksitosiini*** ja ***Antidiureettinen*** hormooni
 
 ## Aivolisäke:
+### Etulohko
 - Kasvuhormooni
 - Prolaktiini
 - Kortikotropiini
 - Tyreotropiini
 - Follitropiini
-- L
+- Lutropiini
+
+### Takalohko:
+- Antidiureettinen hormooni
+- Oksitosiini: Maidon 
