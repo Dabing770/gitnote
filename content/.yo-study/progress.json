@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "updated": "2026-08-23",
+  "updated": "2026-08-26",
   "items": [
+    {
+      "id": "biologia-bi4-periytyminen-sukupuolisidonnaisuus",
+      "subject": "biologia",
+      "module": "BI4",
+      "topic": "periytyminen: autosomi vs sukupuolikromosomi",
+      "level": 0,
+      "correct": 0,
+      "wrong": 1,
+      "lastReview": "2026-08-26",
+      "nextReview": "2026-08-26"
+    },
     {
       "id": "kemia-ke2-ionisaatioenergia",
       "subject": "kemia",
