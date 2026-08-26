@@ -18,4 +18,5 @@
 
 ## Lihas:
 - Luustolihassolu, sidekudoksesta, verisuoneista ja hermoista
+- Lihastenliikke perustuu suustolihassolujen supistumiseen
 - 
