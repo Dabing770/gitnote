@@ -3,7 +3,7 @@
 - Eivät tuottaa suuria voimia; Eivät väsy
 - Supistuminen perustuu aktiini ja myosiinisäikeisiin
 - Tahdosta riipumaton
-- Ohutsuolessa, heuhkoissa ja ruokatorvessa
+- Ohutsuolessa, heuhkoissa ja verisuon
 
 ## Sydänlihassolut
 - Haaraisia soluja
@@ -12,4 +12,10 @@
 - Tahdosta riippumaton
 
 ## Poikkijuovaiset luustolihassolut
+- Kiinittyy luustoon jänteillä
+- Tahdosta riippuvainen
+- Voima on suuri; Mutta väsyy
+
+## Lihas:
+- Luustolihassolu, sidekudoksesta, verisuoneista ja hermoista
 - 
