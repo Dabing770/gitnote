@@ -1,12 +1,12 @@
 ## Sileä lihassolut:
-- Lyhyitä, sukkulamaisia soluja
+- Lyhyitä, sukkulamaisia, yksitumaisia
 - Eivät tuottaa suuria voimia; Eivät väsy
 - Supistuminen perustuu aktiini ja myosiinisäikeisiin
 - Tahdosta riipumaton
 - Ohutsuolessa, keuhkoissa ja verisuonet
 
 ## Sydänlihassolut
-- Haaraisia soluja
+- Haaroituneita, lyhyitä, yksitumaisia
 - Ainoastaan sydämessä
 - Eivät väsy
 - Tahdosta riippumaton
@@ -15,6 +15,7 @@
 - Kiinittyy luustoon jänteillä
 - Tahdosta riippuvainen
 - Voima on suuri; Mutta väsyy
+- Pitkiä, monitumaisia ja poikkijuovaisia
 
 ## Lihas:
 - Luustolihassolu, sidekudoksesta, verisuoneista ja hermoista
