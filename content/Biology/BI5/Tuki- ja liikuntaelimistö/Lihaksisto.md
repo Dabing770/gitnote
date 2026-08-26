@@ -19,4 +19,5 @@
 ## Lihas:
 - Luustolihassolu, sidekudoksesta, verisuoneista ja hermoista
 - Lihastenliikke perustuu suustolihassolujen supistumiseen
+- Lihaksen voimantuottoa säätelee se, kuinka monta lihassolua supistuu samaan aikaan eli kuinka monta motorista yksikköä aktivoituu
 - 
