@@ -3,7 +3,7 @@
 - Eivät tuottaa suuria voimia; Eivät väsy
 - Supistuminen perustuu aktiini ja myosiinisäikeisiin
 - Tahdosta riipumaton
-- Ohutsuolessa, heuhkoissa ja verisuon
+- Ohutsuolessa, keuhkoissa ja verisuonet
 
 ## Sydänlihassolut
 - Haaraisia soluja
