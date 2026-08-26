@@ -19,6 +19,11 @@ Hormoonit tunnistavat kohdesolunsa reseptorien avulla. Hormooni vaikuttaa vain n
 	- Liberiinit: Lisäävät aivolisäkkeen hormonien eritystä
 	- Statiinit: Estävät aivolisäkkeen hormonien eritystä
 - Valmistaa aivolisäkkeen takalohkosta vapautuvat hormonit: ***Oksitosiini*** ja ***antidiureettinen hormoni***
+- Yhdistämällä elimistöstä tulevia informaatioita jypotalamus toimii elimistön homeostasian ylläpitääjänä
+	- Vuorovaikutus rytmi
+	- Nestetasapaino
+	- Ruumiinlämpo
+	- Verenpaine
 
 ## Aivolisäke:
 ### Etulohko
