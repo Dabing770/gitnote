@@ -32,6 +32,10 @@ out/
 # Automatically generated from content images by predev/prebuild
 public/_content/
 
+# English notes and misc content (not published)
+content/English/
+content/其他/
+
 # Accidentally copied browser profile / cache directories
 **/edge-profile/
 **/chrome-profile/
