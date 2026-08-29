@@ -1,7 +1,7 @@
 ionisaatioenergia
 Veteen liukenut ionit
 
-Miksi on 
+Miksi on jodi on molekyylihila
 $$
 I_{2}(s)
 $$
