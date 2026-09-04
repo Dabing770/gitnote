@@ -98,13 +98,13 @@ $$
 ---
 
 ## Vertailu
-| | β⁻ | β⁺ | EC |
-|---|---|---|---|
-| Ytimessä | $n \to p^+$ | $p^+ \to n$ | $p^+ + e^- \to n$ |
-| $A$ | säilyy | säilyy | säilyy |
-| $Z$ | $+1$ | $-1$ | $-1$ |
-| Syntyy | $e^-$, $\overline{\nu}$ | $e^+$, $\nu$ | $\nu$ + ominaisröntgen |
-| $\Delta m$ | $m_X - m_Y$ | $m_X - m_Y - 2m_e$ | $m_X - m_Y$ |
+|            | β⁻                      | β⁺                 | EC                     |
+| ---------- | ----------------------- | ------------------ | ---------------------- |
+| Ytimessä   | $n \to p^+$             | $p^+ \to n$        | $p^+ + e^- \to n$      |
+| $A$        | säilyy                  | säilyy             | säilyy                 |
+| $Z$        | $+1$                    | $-1$               | $-1$                   |
+| Syntyy     | $e^-$, $\overline{\nu}$ | $e^+$, $\nu$       | $\nu$ + ominaisröntgen |
+| $\Delta m$ | $m_X - m_Y$             | $m_X - m_Y - 2m_e$ | $m_X - m_Y$            |
 
 ---
 
