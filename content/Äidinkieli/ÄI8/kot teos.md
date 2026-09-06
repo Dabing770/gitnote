@@ -14,12 +14,12 @@ Mielensäpahoittaja on Tuomas Kyrön (s. 1974) kirjoittama romaani, joka ilmesty
   
 
 2. Esittele teoksen julkaisukonteksti:
-    
+    Mielensäpahoittaja (2010) on Tuomas Kyrön romaani, joka syntyi alun perin Helsingin Sanomien Kuukausiliitteen pakinahahmosta. Se ilmestyi 2010-luvun alussa, jolloin digitalisaatio (älypuhelimet, itsepalvelukassat) ja maaseudun autioituminen muuttivat suomalaista arkea nopeasti — tämä murros on kirjan keskeinen tausta.
 
 3. Missä julkaistu?
-    
+    Mielensäpahoittaja julkaistiin Suomessa vuonna 2010
 4. Milloin julkaistu?
-
+2010
 5. Ketkä ovat ensimmäisenä lukeneet?
     
 6. Esittele maksimissaan kymmenellä sanalla, mitä julkaisumaassa on teoksen julkaisuaikana tapahtunut:
