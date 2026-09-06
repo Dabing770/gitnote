@@ -55,7 +55,7 @@ Iäkäs, nimetön suomalainen mies — häntä kutsutaan koko teoksen ajan vain 
 
 11. Ketkä ihmiset vaikuttavat päähenkilöön eniten ja miten?
     
-
+Eniten häneen vaikuttavat **poikansa perhe**, erityisesti **pojanpoika**, johon hän on kiintynyt syvästi. Arjen sivuhenkilöt (kassat, virkailijat) tuovat esiin törmäyksen moderniin maailmaan.
   
   
   
@@ -69,9 +69,9 @@ Iäkäs, nimetön suomalainen mies — häntä kutsutaan koko teoksen ajan vain 
 12. Missä päähenkilö asuu tai oleskelee?
     
 
+  Hän kokee toistuvasti moderniin yhteiskuntaan (itsepalvelu, tekniikka, uudet tavat) liittyviä hämmentäviä tilanteita, jotka saavat hänet tuntemaan itsensä ulkopuoliseksi.
   
-  
-  
+  Nämä kokemukset vahvistavat hänen kärttyisyyttään, mutta samalla paljastavat hänen herkkyytensä ja rakkautensa perhettä kohtaan.
   
   
 
@@ -81,7 +81,7 @@ Iäkäs, nimetön suomalainen mies — häntä kutsutaan koko teoksen ajan vain 
   
   
   
-  
+  Koskettavin kohta on tilanne, jossa Mielensäpahoittaja kömpelösti mutta sitkeästi osoittaa välittävänsä pojanpojastaan.
   
   
   
