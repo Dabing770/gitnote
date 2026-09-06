@@ -7,7 +7,7 @@ Oma nimi: Ao Jiang
 
   
 
-Annika Turtan kirjoittama näytelmä “Minne sanat ovat kadonneet” (2026, alkup. “Where have all the Words gone?” 2025, suom. Kirsi Breilin) käsittelee…
+Mielensäpahoittaja on Tuomas Kyrön (s. 1974) kirjoittama romaani, joka ilmestyi vuonna 2010. Teos sai suuren suosion, ja siitä on julkaistu useita jatko-osia (mm. Mielensäpahoittajan hiihtokengät, Isä ja Mielensäpahoittaja, Mielensäpahoittajan naapurit).
 
   
   
@@ -19,7 +19,7 @@ Annika Turtan kirjoittama näytelmä “Minne sanat ovat kadonneet” (2026, alk
 3. Missä julkaistu?
     
 4. Milloin julkaistu?
-    
+
 5. Ketkä ovat ensimmäisenä lukeneet?
     
 6. Esittele maksimissaan kymmenellä sanalla, mitä julkaisumaassa on teoksen julkaisuaikana tapahtunut:
