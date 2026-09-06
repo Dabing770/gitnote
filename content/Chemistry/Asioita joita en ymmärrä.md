@@ -7,3 +7,5 @@ I_{2}(s)
 $$
 
 Stantardi suora
+
+Siirtymä kompleksi
