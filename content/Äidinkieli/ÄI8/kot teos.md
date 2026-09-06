@@ -37,12 +37,9 @@ Iäkäs, nimetön suomalainen mies — häntä kutsutaan koko teoksen ajan vain 
 9. Millainen päähenkilö on teoksen alussa?
     
 
+  Mielensäpahoittaja esitellään kärttyisenä, jääräpäisenä ja uutta vieroksuvana vanhana miehenä. Lukija näkee lähinnä hänen koomisen, valittavan pintapuolen.
   
-  
-  
-  
-  
-  
+
   
   
 
@@ -91,4 +88,3 @@ Iäkäs, nimetön suomalainen mies — häntä kutsutaan koko teoksen ajan vain 
 
 14. Nosta teoksesta esille yksi kohta, joka kosketti sinua. Perustele valintasi.
 
-**
