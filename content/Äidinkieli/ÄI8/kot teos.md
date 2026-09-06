@@ -25,7 +25,7 @@ Mielensäpahoittaja on Tuomas Kyrön (s. 1974) kirjoittama romaani, joka ilmesty
 6. Esittele maksimissaan kymmenellä sanalla, mitä julkaisumaassa on teoksen julkaisuaikana tapahtunut:
     
 
-  
+  Suomi oli toipumassa vuoden 2008–2009 finanssikriisistä ja siihen liittyneestä taantumasta, joka vaikutti myös maaseudun ja pienten paikkakuntien talouteen.
   
   
 
