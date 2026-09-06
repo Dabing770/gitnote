@@ -30,9 +30,9 @@ Mielensäpahoittaja on Tuomas Kyrön (s. 1974) kirjoittama romaani, joka ilmesty
   
 
 7. Kirjaa tähän havaintoja teoksen päähenkilöstä:
-
+Iäkäs, nimetön suomalainen mies — häntä kutsutaan koko teoksen ajan vain "Mielensäpahoittajaksi"
 8. Kuka päähenkilö on?
-    
+    Päähenkilöllä ei ole nimeä — häntä kutsutaan koko teoksen ajan vain lisänimellä "Mielensäpahoittaja", joka kuvaa hänen luonnettaan: hän on mies, joka helposti pahoittaa mielensä pienistäkin asioista ja valittaa jatkuvasti.
 
 9. Millainen päähenkilö on teoksen alussa?
     
