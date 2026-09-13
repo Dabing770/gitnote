@@ -1,0 +1,22 @@
+<svg aria-label="Viisikulmio, johon on piirretty punaisella sen viisi lävistäjää." height="71pt" role="img" style="width:40%;max-width:100%;height:auto" version="1.1" viewbox="0 -71 86 71" width="86pt" xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g id="lavistajat2-page1">
+<g transform="scale(1 -1)">
+<g fill="none">
+<g stroke-width=".5">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M18.1133 66.9258L.25 .25H84.7891V49.0586L59.2148 70.5195L18.1133 66.9258Z" stroke="#000"></path>
+<g stroke="#f00">
+<path d="M18.1133 66.9258L84.7891 .25"></path>
+<path d="M.25 .25L84.7891 49.0586"></path>
+<path d="M.25 .25L59.2148 70.5195"></path>
+<path d="M84.7891 .25L59.2148 70.5195"></path>
+<path d="M18.1133 66.9258L84.7891 49.0586"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

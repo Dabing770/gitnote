@@ -1,0 +1,46 @@
+<svg aria-label="Täysi kuusi kertaa kuusi -ruudukko, jonka jokaiseen ruutuun on merkitty reittien määrä. Luvut kasvavat reunojen ykkösistä sisäruutuja kohti ja oikeassa ylänurkassa lukee 252." class="grid01" height="250" role="img" style="max-width:100%;height:auto" viewbox="-5 -5 250 250" width="250" xmlns="http://www.w3.org/2000/svg"><style>.grid01{stroke-width:2.5;stroke:#343a40}.grid01 .filled{fill:#343a40}.grid01 .red{fill:#da292e}.grid01 .green{fill:#2fb380}.grid01 .blue{fill:#3459e6}.grid01 .white{fill:none}.grid01 text{font-family:"Fira Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:1rem;font-weight:400;text-anchor:middle;dominant-baseline:middle;stroke:none}</style>
+<style>
+@font-face {
+    font-family: InterVariable;
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: local('InterVariable'), url('./fonts/InterVariable-subset-cf62ab54df827cf40214.woff2') format('woff2');
+  }
+</style><rect class="white" height="40" width="40" x="0" y="200"></rect>
+<text x="20.0" y="220.0"></text><rect class="white" height="40" width="40" x="0" y="160"></rect>
+<text x="20.0" y="180.0">1</text><rect class="white" height="40" width="40" x="0" y="120"></rect>
+<text x="20.0" y="140.0">1</text><rect class="white" height="40" width="40" x="0" y="80"></rect>
+<text x="20.0" y="100.0">1</text><rect class="white" height="40" width="40" x="0" y="40"></rect>
+<text x="20.0" y="60.0">1</text><rect class="white" height="40" width="40" x="0" y="0"></rect>
+<text x="20.0" y="20.0">1</text><rect class="white" height="40" width="40" x="40" y="200"></rect>
+<text x="60.0" y="220.0">1</text><rect class="white" height="40" width="40" x="40" y="160"></rect>
+<text x="60.0" y="180.0">2</text><rect class="white" height="40" width="40" x="40" y="120"></rect>
+<text x="60.0" y="140.0">3</text><rect class="white" height="40" width="40" x="40" y="80"></rect>
+<text x="60.0" y="100.0">4</text><rect class="white" height="40" width="40" x="40" y="40"></rect>
+<text x="60.0" y="60.0">5</text><rect class="white" height="40" width="40" x="40" y="0"></rect>
+<text x="60.0" y="20.0">6</text><rect class="white" height="40" width="40" x="80" y="200"></rect>
+<text x="100.0" y="220.0">1</text><rect class="white" height="40" width="40" x="80" y="160"></rect>
+<text x="100.0" y="180.0">3</text><rect class="white" height="40" width="40" x="80" y="120"></rect>
+<text x="100.0" y="140.0">6</text><rect class="white" height="40" width="40" x="80" y="80"></rect>
+<text x="100.0" y="100.0">10</text><rect class="white" height="40" width="40" x="80" y="40"></rect>
+<text x="100.0" y="60.0">15</text><rect class="white" height="40" width="40" x="80" y="0"></rect>
+<text x="100.0" y="20.0">21</text><rect class="white" height="40" width="40" x="120" y="200"></rect>
+<text x="140.0" y="220.0">1</text><rect class="white" height="40" width="40" x="120" y="160"></rect>
+<text x="140.0" y="180.0">4</text><rect class="white" height="40" width="40" x="120" y="120"></rect>
+<text x="140.0" y="140.0">10</text><rect class="white" height="40" width="40" x="120" y="80"></rect>
+<text x="140.0" y="100.0">20</text><rect class="white" height="40" width="40" x="120" y="40"></rect>
+<text x="140.0" y="60.0">35</text><rect class="white" height="40" width="40" x="120" y="0"></rect>
+<text x="140.0" y="20.0">56</text><rect class="white" height="40" width="40" x="160" y="200"></rect>
+<text x="180.0" y="220.0">1</text><rect class="white" height="40" width="40" x="160" y="160"></rect>
+<text x="180.0" y="180.0">5</text><rect class="white" height="40" width="40" x="160" y="120"></rect>
+<text x="180.0" y="140.0">15</text><rect class="white" height="40" width="40" x="160" y="80"></rect>
+<text x="180.0" y="100.0">35</text><rect class="white" height="40" width="40" x="160" y="40"></rect>
+<text x="180.0" y="60.0">70</text><rect class="white" height="40" width="40" x="160" y="0"></rect>
+<text x="180.0" y="20.0">126</text><rect class="white" height="40" width="40" x="200" y="200"></rect>
+<text x="220.0" y="220.0">1</text><rect class="white" height="40" width="40" x="200" y="160"></rect>
+<text x="220.0" y="180.0">6</text><rect class="white" height="40" width="40" x="200" y="120"></rect>
+<text x="220.0" y="140.0">21</text><rect class="white" height="40" width="40" x="200" y="80"></rect>
+<text x="220.0" y="100.0">56</text><rect class="white" height="40" width="40" x="200" y="40"></rect>
+<text x="220.0" y="60.0">126</text><rect class="white" height="40" width="40" x="200" y="0"></rect>
+<text x="220.0" y="20.0">252</text></svg>

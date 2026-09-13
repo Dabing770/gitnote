@@ -10,7 +10,7 @@ from urllib.request import Request, urlopen
 
 
 BASE = "https://kurssi.matematiikkakilpailut.fi/"
-OUT = Path("Kilpamatematiikka")
+OUT = Path("Kilpamatematiikka.new")
 CHAPTERS = [
     ("01_induktiivinen_paattely.html", "01 Induktiivinen päättely"),
     ("02_kehäkulmalause.html", "02 Kehäkulmalause"),
@@ -76,23 +76,24 @@ class MarkdownParser(HTMLParser):
         self.lists: list[tuple[str, int]] = []
         self.in_pre = False
         self.asset_names: dict[str, str] = {}
+        self.just_opened_li = False
 
     def emit(self, value: str) -> None:
         if self.in_main and not self.skip_depth:
             self.out.append(value)
 
     def local_link(self, href: str) -> str:
+        if href.startswith("#"):
+            return href
         parsed = urlparse(urljoin(self.page_url, href))
         basename = unquote(Path(parsed.path).name)
         if basename in self.chapter_map:
-            target = self.chapter_map[basename] + ".md"
+            target = (self.chapter_map[basename] + ".md").replace(" ", "%20")
             return target + (("#" + parsed.fragment) if parsed.fragment else "")
-        if href.startswith("#"):
-            return href
         return urljoin(self.page_url, href)
 
     def save_image(self, src: str) -> str:
-        if src.startswith("assets/"):
+        if src.startswith(f"{self.assets_dir.name}/"):
             return src
         url = urljoin(self.page_url, src)
         if url in self.asset_names:
@@ -106,7 +107,7 @@ class MarkdownParser(HTMLParser):
             candidate = f"{stem}-{counter}{suffix}"
             counter += 1
         (self.assets_dir / candidate).write_bytes(fetch(url))
-        relative = f"assets/{candidate}"
+        relative = f"{self.assets_dir.name}/{candidate}"
         self.asset_names[url] = relative
         return relative
 
@@ -122,17 +123,23 @@ class MarkdownParser(HTMLParser):
             return
         if self.skip_depth:
             return
+        element_id = attrs.get("id")
+        if element_id and tag != "main":
+            self.emit(f'<a id="{html.escape(element_id, quote=True)}"></a>')
         if tag in {"h1", "h2", "h3", "h4", "h5", "h6"}:
             self.emit("\n\n" + "#" * int(tag[1]) + " ")
         elif tag == "p":
-            self.emit("\n\n")
+            if self.just_opened_li:
+                self.just_opened_li = False
+            else:
+                self.emit("\n\n")
         elif tag == "br":
             self.emit("  \n")
         elif tag == "hr":
             self.emit("\n\n---\n\n")
         elif tag in {"strong", "b"}:
             self.emit("**")
-        elif tag in {"em", "i"}:
+        elif tag == "em":
             self.emit("*")
         elif tag == "code" and not self.in_pre:
             self.emit("`")
@@ -153,6 +160,7 @@ class MarkdownParser(HTMLParser):
             else:
                 marker = "- "
             self.emit("\n" + "  " * max(0, len(self.lists) - 1) + marker)
+            self.just_opened_li = True
         elif tag == "a":
             href = attrs.get("href")
             self.links.append(self.local_link(href) if href else None)
@@ -187,7 +195,7 @@ class MarkdownParser(HTMLParser):
                 self.emit("\n\n")
             elif tag in {"strong", "b"}:
                 self.emit("**")
-            elif tag in {"em", "i"}:
+            elif tag == "em":
                 self.emit("*")
             elif tag == "code" and not self.in_pre:
                 self.emit("`")
@@ -213,10 +221,18 @@ class MarkdownParser(HTMLParser):
         if self.in_pre:
             self.emit(data)
         else:
-            self.emit(re.sub(r"[ \t\r\f\v]+", " ", data))
+            self.emit(re.sub(r"\s+", " ", data))
+        if data.strip():
+            self.just_opened_li = False
 
 
 def preprocess(raw_html: str, assets_dir: Path, chapter_number: str, css: str) -> tuple[str, dict[str, str]]:
+    raw_html = re.sub(
+        r'<span\b[^>]*class=["\'][^"\']*screen-reader-only[^"\']*["\'][^>]*>.*?</span>',
+        "",
+        raw_html,
+        flags=re.I | re.S,
+    )
     math_counter = 0
 
     def math_repl(match: re.Match[str]) -> str:
@@ -257,7 +273,7 @@ def preprocess(raw_html: str, assets_dir: Path, chapter_number: str, css: str) -
             svg = re.sub(r"(<svg\b[^>]*>)", r"\1<style>" + "".join(rules) + "</style>", svg, count=1, flags=re.I)
         filename = f"{chapter_number}-figure-{svg_counter:02d}.svg"
         (assets_dir / filename).write_text(svg, encoding="utf-8")
-        return f'<img src="assets/{filename}" alt="{html.escape(alt, quote=True)}">'
+        return f'<img src="{assets_dir.name}/{filename}" alt="{html.escape(alt, quote=True)}">'
 
     raw_html = re.sub(r"<svg\b[^>]*>.*?</svg>", svg_repl, raw_html, flags=re.I | re.S)
 
