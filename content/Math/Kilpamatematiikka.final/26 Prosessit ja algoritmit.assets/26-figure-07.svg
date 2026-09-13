@@ -1,0 +1,52 @@
+<svg aria-label="Seitsemän ruutua leveä ja viisi ruutua korkea ruudukko, jonka sisällä on paksuja mustia seiniä eri ruutujen välissä. Kolme robottia on merkitty mustina neliöinä eri puolille ruudukkoa: yksi vasemmassa alanurkassa, yksi keskellä ylhäällä ja yksi oikealla alhaalla." height="123pt" role="img" style="width:50%;max-width:100%;height:auto" version="1.1" viewbox="0 -123 171 123" width="171pt" xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g id="robotit_1-page1">
+<g transform="scale(1 -1)">
+<g stroke="#7f7f7f">
+<g fill="none">
+<g stroke-width=".5">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M1 .996094V121.055"></path>
+<path d="M25.0117 .996094V121.055"></path>
+<path d="M49.0234 .996094V121.055"></path>
+<path d="M73.0352 .996094V121.055"></path>
+<path d="M97.043 .996094V121.055"></path>
+<path d="M121.055 .996094V121.055"></path>
+<path d="M145.066 .996094V121.055"></path>
+<path d="M169.078 .996094V121.055"></path>
+<path d="M1 .996094H169.078"></path>
+<path d="M1 25.0078H169.078"></path>
+<path d="M1 49.0195H169.078"></path>
+<path d="M1 73.0313H169.078"></path>
+<path d="M1 97.043H169.078"></path>
+<path d="M1 121.055H169.078"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g stroke="#000">
+<g fill="none">
+<g stroke-width="2">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M1 .996094H169.078V121.055H1V.996094Z"></path>
+<path d="M25.0117 .996094V73.0313H73.0352V25.0078H49.0234"></path>
+<path d="M97.043 .996094V25.0078"></path>
+<path d="M145.066 .996094V25.0078"></path>
+<path d="M97.043 49.0195H145.066V73.0313H169.078"></path>
+<path d="M25.0117 97.043H121.055V73.0313"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="M8.20313 8.19922H17.8086V17.8047H8.20313Z"></path>
+<path d="M8.20313 8.19922H17.8086V17.8047H8.20313V8.19922Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"></path>
+<path d="M80.2383 80.2344H89.8398V89.8398H80.2383Z"></path>
+<path d="M80.2383 80.2344H89.8438V89.8398H80.2383V80.2344Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"></path>
+<path d="M128.262 32.2109H137.863V41.8164H128.262Z"></path>
+<path d="M128.262 32.2109H137.863V41.8164H128.262V32.2109Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"></path>
+</g>
+</g>
+</svg>

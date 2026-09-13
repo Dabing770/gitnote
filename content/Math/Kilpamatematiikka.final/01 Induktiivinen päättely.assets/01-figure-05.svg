@@ -1,0 +1,26 @@
+<svg aria-label="Samat kolme suoraa neliömäisen alueen sisällä, ja niiden rajaamat alueet on väritetty harmaalla ja valkoisella niin, etteivät mitkään kaksi vierekkäistä aluetta ole samanvärisiä." height="172pt" role="img" style="width:50%;max-width:100%;height:auto;display:block;margin-left:auto;margin-right:auto" version="1.1" viewbox="0 -172 172 172" width="172pt" xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<g id="piirakkaJaettu-page1">
+<g transform="scale(1 -1)">
+<path d="M.75 85.5391L51.4375 115.355L.75 153.371V170.328V85.5391" fill="#7f7f7f"></path>
+<path d="M.75 85.5391L51.4375 115.355L.75 153.371V170.328V85.5391Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"></path>
+<path d="M98.0039 80.4297L51.4375 115.355L144.891 170.328H170.328H102.496L98.0039 80.4297" fill="#7f7f7f"></path>
+<path d="M98.0039 80.4297L51.4375 115.355L144.891 170.328H170.328H102.496L98.0039 80.4297Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"></path>
+<path d="M98.0039 80.4297L170.328 26.1836V.75H94.0195L98.0039 80.4297" fill="#7f7f7f"></path>
+<g stroke="#000">
+<g fill="none">
+<g stroke-width=".5">
+<g stroke-linecap="round">
+<g stroke-linejoin="round">
+<path d="M98.0039 80.4297L170.328 26.1836V.75H94.0195L98.0039 80.4297Z"></path>
+<path d="M102.496 170.328L94.0195 .75"></path>
+<path d="M.75 85.5391L144.891 170.328"></path>
+<path d="M.75 153.371L170.328 26.1836"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="M0 0H171.078V171.078H0V0ZM169.48 169.48V1.59766H1.59766V169.48H169.48" fill="#fff" fill-rule="evenodd"></path>
+</g>
+</g>
+</svg>
