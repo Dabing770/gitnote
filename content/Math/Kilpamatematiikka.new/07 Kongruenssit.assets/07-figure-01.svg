@@ -1,5 +1,0 @@
-<svg aria-hidden="true" height="0" style="position:absolute" width="0">
-<filter height="110%" id="fig-thicken" width="110%" x="-5%" y="-5%">
-<femorphology operator="dilate" radius="0.3"></femorphology>
-</filter>
-</svg>

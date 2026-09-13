@@ -4,27 +4,33 @@ source: "https://kurssi.matematiikkakilpailut.fi/05_laatikkoperiaate.html"
 author: "Olli Järviniemi"
 ---
 
-# 5  Laatikkoperiaate
+<a id="title-block-header"></a>
+
+# 5 Laatikkoperiaate
 
 Tekijä
 
 Olli Järviniemi
 
+<a id="johdanto"></a>
+
 ## 5.1 Johdanto
 
 Laatikkoperiaate on konseptina hyvin yksinkertainen: jos laitamme kolmeen laatikkoon yhteensä neljä palloa, tulee johonkin laatikkoon laitettua vähintään kaksi palloa. Tästä huolimatta periaatetta voi hyödyntää vaikeissa tehtävissä valitsemalla laatikot ja pallot sopivasti. Alla esitetään pari ovelaa sovellusta. Lopussa on tietysti tehtäviä, joista lukija löytää lisää käyttökohteita.
+
+<a id="laatikkoperiaate"></a>
 
 ## 5.2 Laatikkoperiaate
 
 Laatikkoperiaate sanoo seuraavaa:
 
-**
+<a id="thm-laatikko1"></a>
 
 **Lause 5.1 (Laatikkoperiaate, muotoilu 1)** Jos $n$ laatikkoon laitetaan yhteensä $n+1$ palloa, niin on olemassa vähintään yksi laatikko, jossa on vähintään kaksi palloa.
 
 (Koska jos ei olisi, niin kussakin laatikossa olisi enintään yksi pallo, eli palloja olisikin yhteensä enintään $n$.)
 
-**
+<a id="thm-laatikko2"></a>
 
 **Lause 5.2 (Laatikkoperiaate, muotoilu 2)** Jos $n$ laatikkoon laitetaan yhteensä $m$ palloa, niin on olemassa vähintään yksi laatikko, jossa on vähintään $\frac{m}{n}$ (pyöristettynä ylöspäin) palloa.
 
@@ -32,9 +38,11 @@ Laatikkoperiaate sanoo seuraavaa:
 
 Siis jos esimerkiksi neljään laatikkoon laitetaan yhdeksän palloa, niin johonkin laatikkoon tulee vähintään $\frac{9}{4} = 2{,}25$ palloa pyöristettynä ylöspäin, eli vähintään kolme palloa. Kuten jo mainittiin, ei kuulosta kovin ihmeelliseltä, mutta esimerkit ovat silti mielenkiintoisia.
 
+<a id="esimerkki-1-pisteet-neliössä"></a>
+
 ## 5.3 Esimerkki 1: Pisteet neliössä
 
-**
+<a id="exr-nelio51"></a>
 
 **Tehtävä 5.1** Neliön sivun pituus on yksi. Neliön sisällä on $51$ pistettä. Osoita, että riippumatta pisteiden sijainneista löytyy jotkin kolme pistettä, jotka voidaan peittää ympyrällä, jonka säde on $\frac{1}{7}$.
 
@@ -46,7 +54,7 @@ Yritetään toteuttaa tämä idea. Kuinka monta ympyrää meillä on käytettäv
 
 Ympyrät kannattaisi varmankin sijoittaa tasaisesti yksikköneliön sisälle. Yksi luonnollinen idea tämän saavuttamiseksi on jakaa yksikköneliö $25$ neliöön, joiden jokaisen sivun pituus on $\frac{1}{5}$, ja asettaa ympyröiden keskipisteet näiden pikkuneliöiden keskipisteisiin.
 
-![Iso neliö, joka on jaettu ruudukoksi viiteen kertaa viiteen eli kahteenkymmeneenviiteen yhtä suureen pikkuneliöön.](assets/5x5.svg)
+![Iso neliö, joka on jaettu ruudukoksi viiteen kertaa viiteen eli kahteenkymmeneenviiteen yhtä suureen pikkuneliöön.](05%20Laatikkoperiaate.assets/5x5.svg)
 
 *Jaetaan neliö $25$ pienemmäksi neliöksi*
 
@@ -54,23 +62,21 @@ Nyt kysymys kuuluu: saako kunkin pikkuneliön peitettyä yhdellä ympyrällä?
 
 Vastaus kysymykseen on myönteinen. Tilanne on esitettynä seuraavassa kuvassa.
 
-![Suurennos yhdestä pikkuneliöstä ja sen ympärille piirretystä ympyrästä, jonka keskipiste on O. Neliön kärjestä A on jana keskipisteeseen O ja katkoviiva keskipisteestä sivun keskipisteeseen M. Ympyrän reuna kulkee hyvin lähellä neliön kärkiä.](assets/laatikko.svg)
+![Suurennos yhdestä pikkuneliöstä ja sen ympärille piirretystä ympyrästä, jonka keskipiste on O. Neliön kärjestä A on jana keskipisteeseen O ja katkoviiva keskipisteestä sivun keskipisteeseen M. Ympyrän reuna kulkee hyvin lähellä neliön kärkiä.](05%20Laatikkoperiaate.assets/laatikko.svg)
 
 *Laskettava $AO$*
 
 Kuvaan on merkitty neliön ja ympyrän keskipiste $O$, neliön kärkipiste $A$ ja yhden neliön sivun keskipiste $M$. Riittää tietysti todistaa, että jokainen neliön kärkipisteistä on ympyrän sisäpuolella. Haluamme siis osoittaa, että $AO \le \frac{1}{7}$.
 
-Pituus $AO$ osataan laskea kolmiosta $AMO$ käyttämällä Pythagoraan lausetta. Janat $AM$ ja $MO$ ovat pituudeltaan puolet neliön sivun pituudesta $\frac{1}{5}$, eli $AM = MO = \frac{1}{10}$. Pythagoraan lause antaa
+Pituus $AO$ osataan laskea kolmiosta $AMO$ käyttämällä Pythagoraan lausetta. Janat $AM$ ja $MO$ ovat pituudeltaan puolet neliön sivun pituudesta $\frac{1}{5}$, eli $AM = MO = \frac{1}{10}$. Pythagoraan lause antaa $$AO^2 = AM^2 + MO^2 = \frac{1}{100} + \frac{1}{100} = \frac{1}{50}.$$ Täten $AO = \frac{1}{\sqrt{50}}$. Tämä on pienempi kuin $\frac{1}{7}$, koska $\sqrt{50} > 7$. (Ero on kuitenkin hyvin pieni, kuten kuvastakin nähdään.) Tehtävä on täten ratkaistu.
 
-$$AO^2 = AM^2 + MO^2 = \frac{1}{100} + \frac{1}{100} = \frac{1}{50}.$$
-
- Täten $AO = \frac{1}{\sqrt{50}}$. Tämä on pienempi kuin $\frac{1}{7}$, koska $\sqrt{50} > 7$. (Ero on kuitenkin hyvin pieni, kuten kuvastakin nähdään.) Tehtävä on täten ratkaistu.
+<a id="esimerkki-2-lukuja-ja-jaollisuutta"></a>
 
 ## 5.4 Esimerkki 2: Lukuja ja jaollisuutta
 
 Seuraava esimerkki on aika vaikea.
 
-**
+<a id="exr-sata-paritt-alkul"></a>
 
 **Tehtävä 5.2** Luvuista $1, 2, \ldots, 100$ valitaan jotkin niin, ettei mitkään kaksi eri lukua jaa toisiaan. Kuinka monta lukua voidaan enimmillään valita?
 
@@ -79,15 +85,10 @@ On hyvä idea yrittää ensin keksia vastaus. Yksi luonteva veikkaus voisi olla 
 Tutkitaan siis tapausta, jossa lukujen $1, 2, \ldots, 100$ sijasta valitaan lukuja $1, 2, \ldots, n$. Tässä on listattu parhaita ratkaisuja pienillä luvun $n$ arvoilla. (Parhaita ratkaisuja voi olla useampia.)
 
 - $n = 1$: valitaan $1$
-
 - $n = 2$: valitaan $1$
-
 - $n = 3$: valitaan $2, 3$
-
 - $n = 4$: valitaan $3, 4$
-
 - $n = 5$: valitaan $3, 4, 5$
-
 - $n = 6$: valitaan $4, 5, 6$
 
 Säännönmukaisuus alkaa ehkä hahmottua: voidaan aina valita noin puolet luvuista valitsemalla kaikkein isoimmat luvut. Alkuperäisessä tehtävässä voidaan siis valita luvut $51, 52, 53, \ldots, 100$.
@@ -111,6 +112,8 @@ Seuraava laatikko sisältää luvut $7, 14, 28, 56$.
 Seuraava laatikko sisältää luvut $9, 18, 36, 72$.
 
 Ja niin edelleen. Huomataan, että laatikot alkavat aina parittomasta luvusta ja laatikossa seuraava luku on aina kaksi kertaa edellinen. Laatikoita on siis yhtä monta kuin parittomia lukuja välillä yhdestä sataan, eli $50$. Tämä on juuri haluttu määrä. Olemme valmiit.
+
+<a id="tehtäviä"></a>
 
 ## 5.5 Tehtäviä
 
