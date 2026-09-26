@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="760" height="480" fill="#ffffff"/>
+
+  <!-- grid -->
+  <g stroke="#e6e6e6" stroke-width="1">
+    <line x1="200" y1="60"  x2="700" y2="60"/>
+    <line x1="200" y1="140" x2="700" y2="140"/>
+    <line x1="200" y1="220" x2="700" y2="220"/>
+    <line x1="200" y1="300" x2="700" y2="300"/>
+    <line x1="300" y1="60"  x2="300" y2="420"/>
+    <line x1="400" y1="60"  x2="400" y2="420"/>
+    <line x1="500" y1="60"  x2="500" y2="420"/>
+    <line x1="600" y1="60"  x2="600" y2="420"/>
+    <line x1="700" y1="60"  x2="700" y2="420"/>
+  </g>
+
+  <!-- threshold guides -->
+  <g stroke="#9aa0a6" stroke-width="1.4" stroke-dasharray="5 5">
+    <line x1="250" y1="420" x2="250" y2="60"/>
+    <line x1="300" y1="420" x2="300" y2="60"/>
+  </g>
+
+  <!-- axes -->
+  <g stroke="#222" stroke-width="2.5" fill="none">
+    <line x1="200" y1="40" x2="200" y2="420"/>
+    <line x1="200" y1="420" x2="720" y2="420"/>
+  </g>
+  <polygon points="200,32 194,46 206,46" fill="#222"/>
+  <polygon points="728,420 714,414 714,426" fill="#222"/>
+
+  <!-- metal A line (higher W): through (250,420) and (620,0) -->
+  <line x1="200" y1="452" x2="700" y2="-15" stroke="#1a73e8" stroke-width="3"/>
+  <!-- metal B line (lower W): through (280,420) and (600,0) -->
+  <line x1="200" y1="401" x2="700" y2="52" stroke="#e8710a" stroke-width="3"/>
+
+  <!-- threshold points -->
+  <circle cx="280" cy="420" r="6" fill="#e8710a"/>
+  <circle cx="250" cy="420" r="6" fill="#1a73e8"/>
+  <circle cx="200" cy="388" r="6" fill="#e8710a"/>
+  <circle cx="200" cy="373" r="6" fill="#1a73e8"/>
+
+  <!-- labels: metals -->
+  <text x="600" y="42" font-size="18" fill="#1a73e8" font-weight="600">metalli A (suuri W)</text>
+  <text x="600" y="86" font-size="18" fill="#e8710a" font-weight="600">metalli B (pieni W)</text>
+
+  <!-- labels: intercepts -->
+  <text x="280" y="452" font-size="18" fill="#e8710a" font-weight="700" text-anchor="middle">f&#8320;(B)</text>
+  <text x="250" y="452" font-size="18" fill="#1a73e8" font-weight="700" text-anchor="middle">f&#8320;(A)</text>
+  <text x="192" y="394" font-size="17" fill="#e8710a" font-weight="700" text-anchor="end">&#8722;W(B)</text>
+  <text x="192" y="379" font-size="17" fill="#1a73e8" font-weight="700" text-anchor="end">&#8722;W(A)</text>
+
+  <!-- axis labels -->
+  <text x="732" y="446" font-size="17" fill="#222" font-style="italic">f</text>
+  <text x="176" y="46" font-size="17" fill="#222" font-style="italic">E&#8342;</text>
+
+  <!-- annotations -->
+  <text x="300" y="200" font-size="16" fill="#444">f &lt; f&#8320;  &#8594;  E&#8342; = 0, ei elektroneja</text>
+  <text x="300" y="228" font-size="16" fill="#444">f = f&#8320;  &#8594;  hf&#8320; = W  (juuri ja juuri irtoaa)</text>
+  <text x="300" y="256" font-size="16" fill="#444">f &gt; f&#8320;  &#8594;  E&#8342; = hf &#8722; W &gt; 0</text>
+  <text x="300" y="300" font-size="16" fill="#444" font-weight="600">kulmakerroin = h  (sama kaikille metalleille)</text>
+</svg>
