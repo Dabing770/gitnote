@@ -66,7 +66,7 @@ $$\lambda = \frac{1240\ \mathrm{eV\,nm}}{2{,}899\ \mathrm{eV}} \approx 428\ \mat
 
 **c)** 1s3s on korkeaenerginen viritystila, josta on olemassa nopea sallittu siirtymä alemmas (1s3s → 1s2s), joten atomi purkautuu nopeasti. **Metastabiili** = pitkäikäinen viritystila: siirtymä alemmas on kvanttimekaanisesti hyvin epätodennäköinen ("kielletty"), joten atomi voi pysyä tilassa pitkään. Tämä on olennaista lasertoiminnalle (neonin 5s ja 4s).
 
-**d)** Ionisoituminen onnistuu, jos fotonin energia riittää irrottamaan elektronin. Tilassa 1s2s atomin kokonaisenergia on −4,768 eV, joten **ionisaatioenergia on 4,768 eV**. Koska $20{,}0\ \mathrm{eV} > 4{,}768\ \mathrm{eV}$:
+**d)** Ionisoituminen onnistuu, jos fotonin energia riittää irrottamaan elektronin. Taulukon energiat on ilmoitettu ionisaatiorajasta (He⁺ + e⁻ = 0), joten tilassa 1s2s elektronin sitoutumisenergia on 4,768 eV eli **ionisaatioenergia on 4,768 eV**. Koska $20{,}0\ \mathrm{eV} > 4{,}768\ \mathrm{eV}$:
 
 $$E_k = 20{,}0\ \mathrm{eV} - 4{,}768\ \mathrm{eV} \approx 15{,}2\ \mathrm{eV}$$
 
@@ -163,3 +163,4 @@ Suhde $\approx 2{,}5$. → Virta vaihtelee kertoimella 2,5 pelkän lämpövärä
 - "Huidin sääntö" → **Hundin sääntö**; "Fosforenssi" → **fosforesenssi**; "ourkautuminen" → **purkautuminen**; "aineen virityy" → **virittyy**; tiedostonimi "Kvanttimekanisen atomi tilat" → **kvanttimekaaniset atomitilat**.
 - Muistiinpanojen periaate "orbitaalien energiajärjestys on likimain sama kaikilla atomeilla, mutta absoluuttiset energiat eri suuret" on tehtävän 7c ydin — hyvä koekysymys.
 - Heliumin taulukon arvot ovat likiarvoja (1s2s ≈ triplettitila 2³S). Tehtävässä 3 on käytetty johdonmukaisesti taulukon arvoja.
+- **Taulukon nollataso:** muistiinpanoissa ei sanota, mistä energiat on mitattu. Ne eivät ole atomin kokonaisenergioita (sellainen on noin −79,0 eV), vaan **termitasoja mitattuna ionisaatiorajasta** He⁺ + e⁻ = 0: esim. −24,589 eV on heliumin ensimmäinen ionisaatioenergia (kokeellinen 24,587 eV) ja −4,768 eV on ionisaatioenergia tilasta 1s2s. Energia**eroihin** (kuten tehtävä 3a) nollatason valinta ei vaikuta, mutta ionisaatiotehtävissä (3d) se on ratkaiseva.

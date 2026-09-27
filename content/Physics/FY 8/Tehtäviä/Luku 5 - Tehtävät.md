@@ -10,7 +10,7 @@ Tehtävät ovat omia harjoitustehtäviä (eivät aitoja YO-tehtäviä). Pisteet 
 
 $h = 6{,}626\cdot10^{-34}\ \mathrm{J\,s}$, $c = 2{,}998\cdot10^{8}\ \mathrm{m/s}$, $hc = 1240\ \mathrm{eV\cdot nm}$, $1\ \mathrm{eV} = 1{,}602\cdot10^{-19}\ \mathrm{J}$.
 
-**Heliumin energiatilat (kokonaisenergioita):**
+**Heliumin energiatilat** (energiat mitattuna **ionisaatiorajasta** He⁺ + e⁻ = 0; kokeellisia arvoja, ks. vastausten huomiot):
 
 | Tila | E / eV |
 | --- | --- |
